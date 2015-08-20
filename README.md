@@ -60,3 +60,19 @@ sudo gem install sass
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hacklabr/mapasculturais?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Lista de discussão: https://groups.google.com/forum/?hl=en#!forum/mapas-culturais
+
+# License - AGPLv3
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as
+    published by the Free Software Foundation, either version 3 of the
+    License, or (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
+
+    You should have received a copy of the GNU Affero General Public License
+    along with this program.  If not, see LICENSE file here or 
+    [AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html).
