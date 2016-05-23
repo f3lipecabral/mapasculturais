@@ -5,7 +5,7 @@ Neste guia faremos o deploy do Mapas Culturais utilizando o nginx + php-fpm num 
 Não abordaremos as configurações de autenticação, seja com ID da Cultura, seja com Login Cidadão. Ao final do guia teremos a aplicação rodando com o método de autenticação Fake.
 
 As linhas que começam com **$** são executadas com o usuário criado para rodar a aplicação e as linhas que começam com **@** são executadas com o usuário *root*.
-
+s
 ### 1. Instalando os pacotes necessários para o funcionamento do sistema
 Primeiro instalamos os pacotes via apt
 ```BASH
@@ -59,10 +59,10 @@ Agora faça o clone do repositório.
 $ git clone https://github.com/hacklabr/mapasculturais.git
 ```
 
-E alterne para o branch stable. Se for uma instalação de teste, você pode pular esta etapa.
+E alterne para o branch v2. Se for uma instalação de teste, você pode pular esta etapa.
 ```BASH
 $ cd mapasculturais
-$ git checkout stable
+$ git checkout v2
 ```
 
 Agora vamos instalar as dependências de PHP utilizando o Composer.
